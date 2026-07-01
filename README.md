@@ -102,13 +102,6 @@ I'm a Computer Science Engineering student passionate about building scalable ap
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
 
 ## 🎯 Currently Learning
 
