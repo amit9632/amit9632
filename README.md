@@ -120,10 +120,3 @@ I'm a Computer Science Engineering student passionate about building scalable ap
 
 ---
 
-## 💡 Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
